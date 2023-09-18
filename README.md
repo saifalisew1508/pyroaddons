@@ -98,7 +98,7 @@ keyboard.add(
 
 #### ʀᴇsᴜʟᴛ
 
-<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/master/doce/images/add_inline_button.png" alt="add_inline_button"></p>
+<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/main/doce/images/add_inline_button.png" alt="add_inline_button"></p>
 
 ━━━━━━━━━━━━━━━━━━━━
 ### Configuratoins

@@ -1,6 +1,6 @@
 """
 thanks 
-__author__ = 'PyMaster'
+__author__ = 'Pymain'
 """
 from .inline_keyboard import InlineButton, InlineKeyboard  # types :ignore
 from .inline_pagination_keyboard import InlineButton  # types :ignore

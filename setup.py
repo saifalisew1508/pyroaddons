@@ -68,7 +68,7 @@ setuptools.setup(
         "Tracker": "https://github.com/saifalisew1508/pyroaddons/issues",
         "Community": "https://t.me/pyroaddonspy",
         "Source": "https://github.com/saifalisew1508/pyroaddons",
-        "Documentation": "https://github.com/saifalisew1508/pyroaddons/tree/master/doce",
+        "Documentation": "https://github.com/saifalisew1508/pyroaddons/tree/main/doce",
     },
     python_requires="~=3.7",
     zip_safe=False,

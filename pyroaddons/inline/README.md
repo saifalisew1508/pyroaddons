@@ -39,7 +39,7 @@ keyboard.add(
 
 #### Result
 
-<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/master/doce/images/add_inline_button.png" alt="add_inline_button"></p>
+<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/main/doce/images/add_inline_button.png" alt="add_inline_button"></p>
 
 ### Inline Keyboard row buttons
 
@@ -64,7 +64,7 @@ keyboard.row(
 
 #### Result
 
-<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/master/doce/images/row_inline_button.png" alt="row_inline_button"></p>
+<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/main/doce/images/row_inline_button.png" alt="row_inline_button"></p>
 
 ### Pagination inline keyboard
 
@@ -91,7 +91,7 @@ keyboard.paginate(3, 3, 'pagination_keyboard:{number}')
 
 #### Result
 
-<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/master/doce/images/pagination_keyboard_3.png" alt="pagination_keyboard_3"></p>
+<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/main/doce/images/pagination_keyboard_3.png" alt="pagination_keyboard_3"></p>
 
 #### Pagination 5 pages
 
@@ -106,7 +106,7 @@ keyboard.paginate(5, 3, 'pagination_keyboard:{number}')
 
 #### Result
 
-<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/master/doce/images/pagination_keyboard_5.png" alt="pagination_keyboard_5"></p>
+<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/main/doce/images/pagination_keyboard_5.png" alt="pagination_keyboard_5"></p>
 
 #### Pagination 9 pages
 
@@ -121,7 +121,7 @@ keyboard.paginate(9, 5, 'pagination_keyboard:{number}')
 
 #### Result
 
-<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/master/doce/images/pagination_keyboard_9.png" alt="pagination_keyboard_9"></p>
+<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/main/doce/images/pagination_keyboard_9.png" alt="pagination_keyboard_9"></p>
 
 #### Pagination 100 pages
 
@@ -136,7 +136,7 @@ keyboard.paginate(100, 100, 'pagination_keyboard:{number}')
 
 #### Result
 
-<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/master/doce/images/pagination_keyboard_100.png" alt="pagination_keyboard_100"></p>
+<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/main/doce/images/pagination_keyboard_100.png" alt="pagination_keyboard_100"></p>
 
 #### Pagination 150 pages and buttons
 
@@ -155,7 +155,7 @@ keyboard.row(
 
 #### Result
 
-<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/master/doce/images/pagination_keyboard_150.png" alt="pagination_keyboard_150"></p>
+<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/main/doce/images/pagination_keyboard_150.png" alt="pagination_keyboard_150"></p>
 
 ### Languages inline keyboard
 
@@ -197,7 +197,7 @@ keyboard.languages(
 
 #### Result
 
-<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/master/doce/images/languages_keyboard.png" alt="languages_keyboard"></p>
+<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/main/doce/images/languages_keyboard.png" alt="languages_keyboard"></p>
 
 ## Reply Keyboard
 
@@ -232,7 +232,7 @@ keyboard.add(
 
 #### Result
 
-<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/master/doce/images/add_reply_button.png" alt="add_reply_button"></p>
+<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/main/doce/images/add_reply_button.png" alt="add_reply_button"></p>
 
 ### Reply Keyboard row buttons
 
@@ -254,7 +254,7 @@ keyboard.row(ReplyButton('Reply button 5'))
 
 #### Result
 
-<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/master/doce/images/row_reply_button.png" alt="row_reply_button"></p>
+<p><img src="https://raw.githubusercontent.com/saifalisew1508/pyroaddons/main/doce/images/row_reply_button.png" alt="row_reply_button"></p>
 
 
 ### Thanks pykeyboard 
